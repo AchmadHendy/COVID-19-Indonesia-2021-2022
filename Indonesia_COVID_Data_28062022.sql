@@ -4,7 +4,7 @@ From [owid-covid-data_29062022]
 
 --DATA CLEANING
 --Convert data type
----With Modify option in Object Explorer
+---With Modify option in Object Explorer (Microsoft SQL Server)
 
 --Find Duplicates
 ---Using Having statement
